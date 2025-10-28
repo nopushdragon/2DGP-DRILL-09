@@ -12,6 +12,7 @@ def remove_object(o):
         if o in layer:
             layer.remove(o)
             return
+
 def update():
     for layer in world:
         for o in layer:
