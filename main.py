@@ -30,7 +30,7 @@ def reset_world():
     game_world.add_object(boy,1)
 
     front_grass = Grass()
-    front_grass.y = 20
+    front_grass.y = 15
     game_world.add_object(front_grass, 2)
 
 def update_world():
