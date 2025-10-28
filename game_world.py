@@ -1,4 +1,4 @@
-world = [[],[]]
+world = [[],[],[]]
 
 #월드에 객체 추가
 def add_object(o, depth = 0):
